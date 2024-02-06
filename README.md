@@ -11,6 +11,6 @@ The rest of the code was fairly trivial to implement as it just involved setting
 Overall I think the assignment went very well. It was a bit daunting at first but a lot of the necessary pieces were provided to us either by Bart or by the Board itself, it was a more a matter of reading through the docs and finding the correct funcitonality. 
 
 #### Sources
-https://github.com/pdx-cs-rust-embedded/poll-button/blob/main/src/main.rs
-Game of life code given as part of the assignment. 
-Nanorand code given as part of the assignment. 
+* https://github.com/pdx-cs-rust-embedded/poll-button/blob/main/src/main.rs
+* Game of life code given as part of the assignment. 
+* Nanorand code given as part of the assignment. 
