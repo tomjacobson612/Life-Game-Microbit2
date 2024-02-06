@@ -1,3 +1,0 @@
-cargo:rustc-link-search=/home/tom/Desktop/rust_projects/poll-button/target/thumbv7em-none-eabihf/release/build/nrf52833-hal-9ad0dc799f034527/out
-cargo:rerun-if-changed=build.rs
-cargo:rerun-if-changed=memory.x

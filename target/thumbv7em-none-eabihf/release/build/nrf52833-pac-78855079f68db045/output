@@ -1,3 +1,0 @@
-cargo:rustc-link-search=/home/tom/Desktop/rust_projects/poll-button/target/thumbv7em-none-eabihf/release/build/nrf52833-pac-78855079f68db045/out
-cargo:rerun-if-changed=device.x
-cargo:rerun-if-changed=build.rs
