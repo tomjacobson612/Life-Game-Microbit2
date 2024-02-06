@@ -1,0 +1,1 @@
+{"rustc":2497478894085024098,"features":"[\"default\", \"rt\"]","target":2297296889237502566,"profile":12206360443249279867,"path":13979212645391747153,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/nrf52833-hal-d0844bb8f080f161/dep-build-script-build-script-build"}}],"rustflags":[],"metadata":8933041186705891640,"config":2202906307356721367,"compile_kind":0}
