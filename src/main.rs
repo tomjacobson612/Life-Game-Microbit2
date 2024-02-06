@@ -1,7 +1,6 @@
 #![no_std]
 #![no_main]
 
-
 mod life;
 use life::*;
 
@@ -15,8 +14,8 @@ use microbit::{
         timer::Timer,
     },
 };
-use nanorand::{pcg64::Pcg64, Rng, SeedableRng};
 
+use nanorand::{pcg64::Pcg64, Rng, SeedableRng};
 use panic_halt as _;
 
 /// Start a new run on the frame buffer `fb` from a random
